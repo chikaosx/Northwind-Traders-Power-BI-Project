@@ -1,5 +1,5 @@
 # Northwind Traders Power BI Project
-![]()
+![](https://github.com/chikaosx/Northwind-Traders-Power-BI-Project/blob/main/Chinonso%20dashboard.jpg)
 ## Project Overview
 This technical documentation outlines the data analysis project conducted on the Northwind Traders dataset, with the aim of gaining valuable insights into their data. The analysis focused on extracting key information, including the number of member countries, total revenue generated, total number of traders, minimum, maximum, and average shipment costs, total revenue by country, quantity of goods bought by each customer, and the average shipping time for each shipping company.
 
